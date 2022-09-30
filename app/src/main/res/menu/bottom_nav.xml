@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homePage"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+    <item
+        android:title="Alkitab"
+        android:icon="@drawable/alkitab"/>
+
+    <item
+        android:id="@+id/renunganHarian"
+        android:title="Renungan"
+        android:icon="@drawable/renungan"/>
+
+    <item
+        android:id="@+id/dukunganDoa"
+        android:title="Doa"
+        android:icon="@drawable/pray"/>
+
+    <item android:id="@+id/profilePage"
+        android:title="Profile"
+        android:icon="@drawable/profile"/>
+</menu>
